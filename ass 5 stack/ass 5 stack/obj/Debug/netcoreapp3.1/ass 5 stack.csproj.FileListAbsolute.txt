@@ -1,0 +1,14 @@
+C:\Users\DNSURYAV\source\repos\ass 5 stack\ass 5 stack\obj\Debug\netcoreapp3.1\ass 5 stack.csproj.AssemblyReference.cache
+C:\Users\DNSURYAV\source\repos\ass 5 stack\ass 5 stack\obj\Debug\netcoreapp3.1\ass 5 stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNSURYAV\source\repos\ass 5 stack\ass 5 stack\obj\Debug\netcoreapp3.1\ass 5 stack.AssemblyInfoInputs.cache
+C:\Users\DNSURYAV\source\repos\ass 5 stack\ass 5 stack\obj\Debug\netcoreapp3.1\ass 5 stack.AssemblyInfo.cs
+C:\Users\DNSURYAV\source\repos\ass 5 stack\ass 5 stack\obj\Debug\netcoreapp3.1\ass 5 stack.csproj.CoreCompileInputs.cache
+C:\Users\DNSURYAV\source\repos\ass 5 stack\ass 5 stack\bin\Debug\netcoreapp3.1\ass 5 stack.exe
+C:\Users\DNSURYAV\source\repos\ass 5 stack\ass 5 stack\bin\Debug\netcoreapp3.1\ass 5 stack.deps.json
+C:\Users\DNSURYAV\source\repos\ass 5 stack\ass 5 stack\bin\Debug\netcoreapp3.1\ass 5 stack.runtimeconfig.json
+C:\Users\DNSURYAV\source\repos\ass 5 stack\ass 5 stack\bin\Debug\netcoreapp3.1\ass 5 stack.runtimeconfig.dev.json
+C:\Users\DNSURYAV\source\repos\ass 5 stack\ass 5 stack\bin\Debug\netcoreapp3.1\ass 5 stack.dll
+C:\Users\DNSURYAV\source\repos\ass 5 stack\ass 5 stack\bin\Debug\netcoreapp3.1\ass 5 stack.pdb
+C:\Users\DNSURYAV\source\repos\ass 5 stack\ass 5 stack\obj\Debug\netcoreapp3.1\ass 5 stack.dll
+C:\Users\DNSURYAV\source\repos\ass 5 stack\ass 5 stack\obj\Debug\netcoreapp3.1\ass 5 stack.pdb
+C:\Users\DNSURYAV\source\repos\ass 5 stack\ass 5 stack\obj\Debug\netcoreapp3.1\ass 5 stack.genruntimeconfig.cache
