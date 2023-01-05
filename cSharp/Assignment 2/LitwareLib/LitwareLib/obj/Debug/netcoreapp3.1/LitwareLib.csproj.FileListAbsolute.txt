@@ -1,0 +1,14 @@
+C:\Users\DNSURYAV\source\repos\LitwareLib\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.csproj.AssemblyReference.cache
+C:\Users\DNSURYAV\source\repos\LitwareLib\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNSURYAV\source\repos\LitwareLib\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.AssemblyInfoInputs.cache
+C:\Users\DNSURYAV\source\repos\LitwareLib\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.AssemblyInfo.cs
+C:\Users\DNSURYAV\source\repos\LitwareLib\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.csproj.CoreCompileInputs.cache
+C:\Users\DNSURYAV\source\repos\LitwareLib\LitwareLib\bin\Debug\netcoreapp3.1\LitwareLib.exe
+C:\Users\DNSURYAV\source\repos\LitwareLib\LitwareLib\bin\Debug\netcoreapp3.1\LitwareLib.deps.json
+C:\Users\DNSURYAV\source\repos\LitwareLib\LitwareLib\bin\Debug\netcoreapp3.1\LitwareLib.runtimeconfig.json
+C:\Users\DNSURYAV\source\repos\LitwareLib\LitwareLib\bin\Debug\netcoreapp3.1\LitwareLib.runtimeconfig.dev.json
+C:\Users\DNSURYAV\source\repos\LitwareLib\LitwareLib\bin\Debug\netcoreapp3.1\LitwareLib.dll
+C:\Users\DNSURYAV\source\repos\LitwareLib\LitwareLib\bin\Debug\netcoreapp3.1\LitwareLib.pdb
+C:\Users\DNSURYAV\source\repos\LitwareLib\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.dll
+C:\Users\DNSURYAV\source\repos\LitwareLib\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.pdb
+C:\Users\DNSURYAV\source\repos\LitwareLib\LitwareLib\obj\Debug\netcoreapp3.1\LitwareLib.genruntimeconfig.cache
