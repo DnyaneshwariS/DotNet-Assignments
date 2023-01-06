@@ -11,3 +11,17 @@ C:\Users\DNSURYAV\source\repos\ass7\ass7\obj\Debug\netcoreapp3.1\ass7.csproj.Cor
 C:\Users\DNSURYAV\source\repos\ass7\ass7\obj\Debug\netcoreapp3.1\ass7.dll
 C:\Users\DNSURYAV\source\repos\ass7\ass7\obj\Debug\netcoreapp3.1\ass7.pdb
 C:\Users\DNSURYAV\source\repos\ass7\ass7\obj\Debug\netcoreapp3.1\ass7.genruntimeconfig.cache
+C:\Users\DNSURYAV\DotNet-Assignments\cSharp\Assigment 7\ass7\ass7\bin\Debug\netcoreapp3.1\ass7.exe
+C:\Users\DNSURYAV\DotNet-Assignments\cSharp\Assigment 7\ass7\ass7\bin\Debug\netcoreapp3.1\ass7.deps.json
+C:\Users\DNSURYAV\DotNet-Assignments\cSharp\Assigment 7\ass7\ass7\bin\Debug\netcoreapp3.1\ass7.runtimeconfig.json
+C:\Users\DNSURYAV\DotNet-Assignments\cSharp\Assigment 7\ass7\ass7\bin\Debug\netcoreapp3.1\ass7.runtimeconfig.dev.json
+C:\Users\DNSURYAV\DotNet-Assignments\cSharp\Assigment 7\ass7\ass7\bin\Debug\netcoreapp3.1\ass7.dll
+C:\Users\DNSURYAV\DotNet-Assignments\cSharp\Assigment 7\ass7\ass7\bin\Debug\netcoreapp3.1\ass7.pdb
+C:\Users\DNSURYAV\DotNet-Assignments\cSharp\Assigment 7\ass7\ass7\obj\Debug\netcoreapp3.1\ass7.csproj.AssemblyReference.cache
+C:\Users\DNSURYAV\DotNet-Assignments\cSharp\Assigment 7\ass7\ass7\obj\Debug\netcoreapp3.1\ass7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DNSURYAV\DotNet-Assignments\cSharp\Assigment 7\ass7\ass7\obj\Debug\netcoreapp3.1\ass7.AssemblyInfoInputs.cache
+C:\Users\DNSURYAV\DotNet-Assignments\cSharp\Assigment 7\ass7\ass7\obj\Debug\netcoreapp3.1\ass7.AssemblyInfo.cs
+C:\Users\DNSURYAV\DotNet-Assignments\cSharp\Assigment 7\ass7\ass7\obj\Debug\netcoreapp3.1\ass7.csproj.CoreCompileInputs.cache
+C:\Users\DNSURYAV\DotNet-Assignments\cSharp\Assigment 7\ass7\ass7\obj\Debug\netcoreapp3.1\ass7.dll
+C:\Users\DNSURYAV\DotNet-Assignments\cSharp\Assigment 7\ass7\ass7\obj\Debug\netcoreapp3.1\ass7.pdb
+C:\Users\DNSURYAV\DotNet-Assignments\cSharp\Assigment 7\ass7\ass7\obj\Debug\netcoreapp3.1\ass7.genruntimeconfig.cache

@@ -7,7 +7,7 @@ namespace Question1
     {
         static void Main(string[] args)
         {
-            string rootPath = @"C:\Users\RAKERKAR\.Net-FullStack\C# Assignments\Assignment_7\Question1";
+            string rootPath = @"C:\Users\DNSURYAV\DotNet-Assignments\cSharp\Assigment 7";
 
             var dirs = Directory.GetDirectories(rootPath, "*", SearchOption.AllDirectories);
             var files = Directory.GetFiles(rootPath, "*.txt", SearchOption.AllDirectories);
