@@ -1,0 +1,10 @@
+﻿@model Day3Hol.Models.User
+@{
+    ViewBag.Title = "AddUser";
+}
+
+<h2>AddUser</h2>
+
+@Html.TextBoxFor(user => user.UserName)
+
+@Html.PasswordFor(user => user.Password)

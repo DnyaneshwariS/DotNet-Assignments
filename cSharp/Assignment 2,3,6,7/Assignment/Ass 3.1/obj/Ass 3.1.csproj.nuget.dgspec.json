@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DNSURYAV\\DotNet-Assignments\\cSharp\\assignment3\\Ass 3.1\\Ass 3.1\\Ass 3.1.csproj": {}
+    "C:\\Users\\DNSURYAV\\DotNet-Assignments\\cSharp\\Assignment 2,3,6,7\\Assignment\\Ass 3.1\\Ass 3.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DNSURYAV\\DotNet-Assignments\\cSharp\\assignment3\\Ass 3.1\\Ass 3.1\\Ass 3.1.csproj": {
+    "C:\\Users\\DNSURYAV\\DotNet-Assignments\\cSharp\\Assignment 2,3,6,7\\Assignment\\Ass 3.1\\Ass 3.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DNSURYAV\\DotNet-Assignments\\cSharp\\assignment3\\Ass 3.1\\Ass 3.1\\Ass 3.1.csproj",
+        "projectUniqueName": "C:\\Users\\DNSURYAV\\DotNet-Assignments\\cSharp\\Assignment 2,3,6,7\\Assignment\\Ass 3.1\\Ass 3.1.csproj",
         "projectName": "Ass 3.1",
-        "projectPath": "C:\\Users\\DNSURYAV\\DotNet-Assignments\\cSharp\\assignment3\\Ass 3.1\\Ass 3.1\\Ass 3.1.csproj",
+        "projectPath": "C:\\Users\\DNSURYAV\\DotNet-Assignments\\cSharp\\Assignment 2,3,6,7\\Assignment\\Ass 3.1\\Ass 3.1.csproj",
         "packagesPath": "C:\\Users\\DNSURYAV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DNSURYAV\\DotNet-Assignments\\cSharp\\assignment3\\Ass 3.1\\Ass 3.1\\obj\\",
+        "outputPath": "C:\\Users\\DNSURYAV\\DotNet-Assignments\\cSharp\\Assignment 2,3,6,7\\Assignment\\Ass 3.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DNSURYAV\\AppData\\Roaming\\NuGet\\NuGet.Config",
